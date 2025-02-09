@@ -401,3 +401,6 @@ FodyWeavers.xsd
 
 # venv folder
 .django_project/
+
+# database
+*.sqlite3
